@@ -63,7 +63,7 @@ internal class Program
     }
 }
 
-enum ChestState
+enum ChestState : byte
 {
     Open,
     Closed,
